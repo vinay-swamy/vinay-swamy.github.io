@@ -1,9 +1,8 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: cooking
+slug: /cooking
 ---
 
-Soy un CHef
+I like to cook...a lot.
 
 <br />
